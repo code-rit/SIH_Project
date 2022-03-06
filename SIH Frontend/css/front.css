@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: black;
+}
+
+
+/* body { */
+
+
+/* background-color: black; */
+
+
+/* background-image: url(../photos/214\ map.png); */
+
+
+/* background-repeat: no-repeat;
+    background-position: right; */
+
+
+/* background-attachment: fixed; */
+
+
+/* background-size: 1520px; */
+
+
+/* } */
+
+
+/* img {
+    float: right;
+    height: 62rem;
+    width: 56rem;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    margin-right: 12px;
+    animation: coin-rotate 8s infinite;
+    animation-duration: 10s;
+    /* opacity: 0.1; */
+
+#map {
+    height: 0rem;
+    width: 50rem;
+    float: right;
+    margin-top: 46px;
+    animation: coin-rotate 8s infinite;
+    animation-duration: 10s;
+}
+
+@keyframes coin-rotate {
+    0% {
+        transform: rotateY(0deg);
+        transform-origin: 50% 20% 0%;
+    }
+    100% {
+        transform: rotateY(360deg);
+        transform-origin: 50% 20% 0;
+    }
+}
+
+nav {
+    border-radius: 0px;
+    margin-top: 0px;
+}
+
+.form-control {
+    margin: 7px 612px;
+}
+
+.nav-item {
+    margin: 0 15px;
+    font-size: 20px;
+    font-weight: 150;
+}
+
+
+/* ul {
+    float: left;
+    list-style-type: none;
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    font-size: medium;
+    text-decoration: underline;
+    color: white;
+    padding: 15px 15px;
+    transition: 0.6s ease;
+}
+
+.quote b {
+    color: yellow;
+    float: left;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-left: -400px;
+    font-style: oblique;
+}
+
+.main {
+    max-width: 1200px;
+    margin: auto;
+} */
